@@ -8,7 +8,7 @@ Purpose of this repository is to get used to work with git and to _show-off my c
 
 ## Personal goals with this repository
 
-At the moment of creating this repository is to learn along the job coding and find a job within IT in some junior position to become a senior developer in one or more of the following tools:
+At the moment of creating this repository is to learn coding and find a job within IT as junior developer and become a senior developer in one or more of the following tools:
 
 - Python
 - C++
