@@ -41,29 +41,5 @@ There are 3 webpages I am about to do, starting on 2023:
 
 ## 🌟 Job related info
 
-NOTE: also available for work as **self-employment**
-
-```
-from random import randint
-
-work_experience = 0
-skill = "unknown"
-salary = randint(1000, 1500)
-work = False
-
-# Evaluate input
-given_chance = int(input("Type 1 to hire, 0 to miss the opportunity: "))
-if given_chance == 1:
-    print(f"Hypothetical offer: {salary} $")
-while not work:
-    if given_chance == 0:
-        print("Thank you for viewing my README anyway. Have a nice day.")
-        break
-    elif given_chance == 1 and work_experience < 2:
-        print(f"Thank you for opportunity. {2 - work_experience} year/s to see the fruits.")
-        work_experience += 1
-    else:
-        skill = "obtained"
-        print(f"Let's discuss {skill} knowledge and outcome over {work_experience} years.")
-        work = True
-```
+looking for junior position
+also available for work as **self-employment**
