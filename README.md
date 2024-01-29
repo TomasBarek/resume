@@ -28,4 +28,4 @@ Will be followed by Data science & machine learning bootcamp and web development
 
 ## 👀 HTML, CSS, JS, PHP codes
 
-These I am learning via [learn2code (Roman Hraška)](https://skillmea.sk/)
+These I am learning via [learn2code (Roman Hraška)]**(https://skillmea.sk/)**
